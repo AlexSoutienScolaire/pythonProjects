@@ -5,6 +5,7 @@ pygame.init()
 
 couleur_fond = (255,255,0)
 
+jaune = (255,255,0)
 rouge = (255,0,0)
 vert = (0,255,0)
 bleu = (0,0,255)
